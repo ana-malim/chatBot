@@ -18,6 +18,7 @@ to install node package manager (node.js and npm)
 install nodejs C:\Program Files\nodejs\ from https://nodejs.org/en/download/
 
 run command >npm install botui --save
+run command >npm install node-nlp-rn
 
 >npm init --yes to create a default package.json on C:\Users\ana_m
 
